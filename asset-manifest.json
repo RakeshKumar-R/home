@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2a226ea.css",
+    "main.js": "/static/js/main.bfd39750.js",
+    "static/js/787.a14d3cc6.chunk.js": "/static/js/787.a14d3cc6.chunk.js",
+    "static/media/page5.jpg": "/static/media/page5.559f9a799edc47af81cb.jpg",
+    "static/media/page4.jpg": "/static/media/page4.1665b6fb4743e1f4e970.jpg",
+    "static/media/page1.png": "/static/media/page1.0dc57a23d906dccf2d3e.png",
+    "static/media/page2.png": "/static/media/page2.18efc8763f1999fb5e92.png",
+    "static/media/page3.png": "/static/media/page3.81c0f2f84ccfe015e362.png",
+    "static/media/babyshower.png": "/static/media/babyshower.6e5d793085c2041c0403.png",
+    "static/media/wedding.png": "/static/media/wedding.4957a5eb65e104bbda7c.png",
+    "static/media/outdoor.png": "/static/media/outdoor.1e61eb173346066c81a8.png",
+    "static/media/chirstmax.png": "/static/media/chirstmax.c76fec602154b5f8adc5.png",
+    "static/media/logo.png": "/static/media/logo.819925417a4d4f495321.png",
+    "static/media/1stbday.png": "/static/media/1stbday.5b35d68f3607aa91a089.png",
+    "static/media/indoor.png": "/static/media/indoor.d7266ef47dded5ee38e6.png",
+    "static/media/couple.png": "/static/media/couple.e147fd9f9c3c1a22abbe.png",
+    "static/media/newborn.png": "/static/media/newborn.352556d8fac3a7ff6013.png",
+    "index.html": "/index.html",
+    "main.d2a226ea.css.map": "/static/css/main.d2a226ea.css.map",
+    "main.bfd39750.js.map": "/static/js/main.bfd39750.js.map",
+    "787.a14d3cc6.chunk.js.map": "/static/js/787.a14d3cc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2a226ea.css",
+    "static/js/main.bfd39750.js"
+  ]
+}
